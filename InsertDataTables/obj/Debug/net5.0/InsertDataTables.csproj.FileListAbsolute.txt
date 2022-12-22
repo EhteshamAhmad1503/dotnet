@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\bin\Debug\net5.0\InsertDataTables.exe
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\bin\Debug\net5.0\InsertDataTables.deps.json
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\bin\Debug\net5.0\InsertDataTables.runtimeconfig.json
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\bin\Debug\net5.0\InsertDataTables.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\bin\Debug\net5.0\InsertDataTables.dll
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\bin\Debug\net5.0\ref\InsertDataTables.dll
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\bin\Debug\net5.0\InsertDataTables.pdb
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.dll
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\ref\InsertDataTables.dll
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.pdb
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Ado.Net_Tutorial\InsertDataTables\obj\Debug\net5.0\InsertDataTables.csproj.AssemblyReference.cache
